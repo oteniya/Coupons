@@ -34,9 +34,8 @@ Acceptance rate of bar coupons
 
 ## Investigating Coffee Coupons
 Acceptance rate for coffee coupons
+
 ![alt text](graphs/coffee_acceptance.png)
-
-
 
 **49%** of those with a coffee coupon accepted and additional analysis shows that:
 - 10% of people that accepted the coupon are heading to work

@@ -5,7 +5,7 @@ This is a brief report that highlights differences between customers who did and
 
 ## Let's get started
 
-Jupyter notebook: [prompt.ipynp](prompt.ipynp)
+Jupyter notebook: [prompt.ipynb](prompt.ipynb)
 
 Data source: UCI Machine Learning repository
 
